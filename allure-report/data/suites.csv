@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 02 12:51:11 EET 2024","Tue Jul 02 12:51:21 EET 2024","9336","","Login","","Test logging with invalid credentials","","Test logging with invalid credentials",""
+"passed","Tue Jul 02 12:50:54 EET 2024","Tue Jul 02 12:51:03 EET 2024","8812","","Login","","Test logging without user name","","Test logging without user name",""
+"passed","Tue Jul 02 12:51:03 EET 2024","Tue Jul 02 12:51:11 EET 2024","8592","","Login","","Test logging without password","","Test logging without password",""
+"passed","Tue Jul 02 12:51:30 EET 2024","Tue Jul 02 12:51:40 EET 2024","9646","","Login","","Test logging with invalid credentials","","Test logging with invalid credentials",""
+"passed","Tue Jul 02 12:51:21 EET 2024","Tue Jul 02 12:51:30 EET 2024","9796","","Login","","Test logging with invalid credentials","","Test logging with invalid credentials",""
+"passed","Tue Jul 02 12:50:44 EET 2024","Tue Jul 02 12:50:54 EET 2024","9368","","Login","","Test Valid Login","","Test Valid Login",""
